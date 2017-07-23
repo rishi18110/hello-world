@@ -1,2 +1,3 @@
 # hello-world
-Firstrepo
+Firstrepo creating things differently
+This is my first commit
